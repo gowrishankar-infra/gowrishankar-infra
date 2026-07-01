@@ -2,7 +2,6 @@
 I support CI/CD automation and cloud-native delivery on Azure — Jenkins pipelines, Docker + Kubernetes deployments, Terraform-based provisioning, and production reliability through incident triage.
 - 🌐 Portfolio: https://gowrishankar.dev  
 - 📧 Email: gowrishankar0827@gmail.com  
-- 📱 Phone: +91 96185 10658  
 - 📍 Hyderabad, Telangana, India  
 - 💼 LinkedIn: (add your link)
 
