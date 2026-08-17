@@ -5,11 +5,6 @@ I support CI/CD automation and cloud-native delivery on Azure — Jenkins pipeli
 - 📍 Hyderabad, Telangana, India  
 - 💼 LinkedIn: (add your link)
 
-## Proof Projects (Interview-ready)
-- **FedEx — DevOps / CI-CD / Azure / Kubernetes (Jenkins, Docker, Kubernetes):** https://github.com/gowrishankar-infra/fedex-cicd-kubernetes  
-- **GEMINI — ACCS Modernization for FedEx (CI/CD routines, Git/GitHub, Azure):** https://github.com/gowrishankar-infra/gemini-accs-cicd  
-- **Infrastructure Automation Toolkit (Terraform + Jenkins + Docker + Shell):** https://github.com/gowrishankar-infra/devops-iac-toolkit
-  
 ## Core Skills
 **CI/CD & Release:** Jenkins, Git/GitHub Workflows, Pipeline Triggers, Stable Releases across Dev/Pre-Live/Prod, Environment-Specific Config  
 **Containers & Kubernetes:** Docker, Kubernetes Deployments, Cluster Upgrades & Patching, Maintenance, Workload Health Monitoring  
